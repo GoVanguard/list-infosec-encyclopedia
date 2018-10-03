@@ -286,6 +286,7 @@
   - Validated CloudFront SSL Domains (https://medium.com/@vysec.private/validated-cloudfront-ssl-domains-27895822cea3)
   - CloudFront Hijacking (https://www.mindpointgroup.com/blog/pen-test/cloudfront-hijacking/)
   - Using robots.txt to Locate Your Targets (http://www.behindthefirewalls.com/2013/07/using-robotstxt-to-locate-your-targets.html)
+  - Awesome Lockpicking (https://github.com/meitar/awesome-lockpicking)
 
 ### Clearnet Exploit Databases
   - Exploit-DB (https://www.exploit-db.com/)
@@ -643,14 +644,20 @@
   * [ChipWhisperer](http://chipwhisperer.com) - Complete open-source toolchain for side-channel power analysis and glitching attacks.
 
   #### Forensic Tools
+  * [SIFT Workstation](https://digital-forensics.sans.org/community/downloads) - Linux distro (with optional VM) for digital forensics.
+  * [Appliance for Digital Investigation and Analysis (ADIA)](https://forensics.cert.org/#ADIA) - VMware virtual appliance for digital forensics.
+  * [Security Onion](https://github.com/Security-Onion-Solutions/security-onion) - Linux distro for monitoring.
+  * [PALADIN](https://sumuri.com/software/paladin/) - Linux distro for digital forensics.
+  * [CAINE](https://www.caine-live.net/index.html) - Italian live Linux distro for digital forensics.
   * [Maltego](http://www.paterva.com/web7/) - Proprietary software for open source intelligence and forensics, from Paterva.
   * [The Sleuth Kit](https://www.sleuthkit.org/sleuthkit/) - Collection of command line digital forensic utilities for investigating disk images, volume and file system data, and more.
   * [Autopsy](https://www.sleuthkit.org/autopsy/) - Graphical interface to The Sleuth Kit.
+  * [Digital Forensics Framework (DFF)](https://tools.kali.org/forensics/dff) - Open source digital forensics framework with GUI.
   * [Foremost](http://foremost.sourceforge.net/) - File recovery tool.
   * [extundelete](http://extundelete.sourceforge.net/) - ext3 and ext4 file recovery tool.
   * [magneto-malware-scanner](https://github.com/gwillem/magento-malware-scanner) - Malware scanning platform.
   * [FireEye Labs Obfuscated String Solver (FLOSS)](https://github.com/fireeye/flare-floss/) - Extract obfuscated strings from malware.
-  * [Digital Forensics Framework (DFF)](https://tools.kali.org/forensics/dff) - Open source digital forensics tool with GUI.
+  * [nightHawk](https://github.com/biggiesmallsAG/nightHawkResponse) - Platform for digital forensics presentation, using Elasticsearch.
   * [Dumpzilla](http://www.dumpzilla.org/) - Python based application for dumping information from Firefox, Iceweasel, and Seamonkey browsers.
   * [pdfid](https://blog.didierstevens.com/my-software/#pdfid) - PDF digital forensics software.
   * [pdf-parser](https://blog.didierstevens.com/my-software/#pdf-parser) - PDF digital forensics software.
@@ -684,6 +691,31 @@
   * [conpot](https://github.com/mushorg/conpot/) - ICS/SCADA honeypot.
   * [glastopf](https://github.com/mushorg/glastopf/) - Python based web application honeypot.
   * [smart-honeypot](https://github.com/freak3dot/smart-honeypot/) - PHP based honeypot.
+
+  #### Incident Response
+  * [Osquery](https://osquery.io/) - Multiplatform framework for querying operating systems similar to SQL queries.
+  * [RedHunt OS](https://github.com/redhuntlabs/RedHunt-OS) - Purposely vulnerable Linux VM.
+  * [APT Simulator](https://github.com/NextronSystems/APTSimulator) - Windows Batch Script that makes a system appear compromised.
+  * [Atomic Red Team](https://atomicredteam.io/) - Set of premade tests to evaluate security posture.
+  * [AutoTTP](https://github.com/jymcheong/AutoTTP) - Automated Tactics Techniques & Procedures, for re-issuing complex tasks.
+  * [Blue Team Training Toolkit](https://www.bt3.no/) - Toolkit for preparing blue teams for defensive security.
+  * [Caldera](https://github.com/mitre/caldera) - Automated adversary emulation system.
+  * [DumpsterFire Toolset](https://github.com/TryCatchHCF/DumpsterFire) - Security event simulator.
+  * [Metta](https://github.com/uber-common/metta) - Open source adversary simulation.
+  * [Network Flight Simulator](https://github.com/alphasoc/flightsim) - Utility for generating malicious network traffic.
+  * [Red Team Automation (RTA)](https://github.com/endgameinc/RTA) - Adversary simulation framework.
+  * [Belkasoft Evidence Center](https://belkasoft.com/ec) - Commercial incident response suite.
+  * [CIRTKit](https://github.com/opensourcesec/CIRTKit) - Open source incident response framework.
+  * [Cyber Triage](https://www.cybertriage.com/) - Commercial incident response suite.
+  * [Doorman](https://github.com/mwielgoszewski/doorman) - Osquery fleet manager.
+  * [Falcon Orchestrator](https://github.com/CrowdStrike/falcon-orchestrator) - Windows based incident management framework.
+  * [GRR Rapid Response](https://github.com/google/grr) - Python based incident mangement framework.
+  * [Kolide Fleet](https://kolide.com/fleet) - Open source osquery manager.
+  * [LimaCharlie](https://github.com/refractionpoint/limacharlie) - Cross-platform open source endpoint detection and response solution.
+  * [MIG - Mozilla InvestiGator](https://mig.mozilla.org/) - Endpoint inspection.
+  * [MozDef](https://github.com/mozilla/MozDef) - Mozilla defense platform.
+  * [Redline](https://www.fireeye.com/services/freeware/redline.html) - Investigative tool able to scan processes, memory, file system metadata, and more.
+  * [Zentral](https://github.com/zentralopensource/zentral) - Monitors system events using osquery.
 
   #### Other
   * [Kayak Car Hacking Tool](https://github.com/ParrotSec/car-hacking-tools) - Tool for Kayak car hacking.

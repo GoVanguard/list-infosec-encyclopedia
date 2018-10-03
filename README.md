@@ -653,11 +653,12 @@
   * [The Sleuth Kit](https://www.sleuthkit.org/sleuthkit/) - Collection of command line digital forensic utilities for investigating disk images, volume and file system data, and more.
   * [Autopsy](https://www.sleuthkit.org/autopsy/) - Graphical interface to The Sleuth Kit.
   * [Digital Forensics Framework (DFF)](https://tools.kali.org/forensics/dff) - Open source digital forensics framework with GUI.
+  * [nightHawk](https://github.com/biggiesmallsAG/nightHawkResponse) - Platform for digital forensics presentation, using Elasticsearch.
+  * [Rekall](http://www.rekall-forensic.com/) - Incident response and forensics tool.
   * [Foremost](http://foremost.sourceforge.net/) - File recovery tool.
   * [extundelete](http://extundelete.sourceforge.net/) - ext3 and ext4 file recovery tool.
   * [magneto-malware-scanner](https://github.com/gwillem/magento-malware-scanner) - Malware scanning platform.
   * [FireEye Labs Obfuscated String Solver (FLOSS)](https://github.com/fireeye/flare-floss/) - Extract obfuscated strings from malware.
-  * [nightHawk](https://github.com/biggiesmallsAG/nightHawkResponse) - Platform for digital forensics presentation, using Elasticsearch.
   * [Dumpzilla](http://www.dumpzilla.org/) - Python based application for dumping information from Firefox, Iceweasel, and Seamonkey browsers.
   * [pdfid](https://blog.didierstevens.com/my-software/#pdfid) - PDF digital forensics software.
   * [pdf-parser](https://blog.didierstevens.com/my-software/#pdf-parser) - PDF digital forensics software.
@@ -667,30 +668,18 @@
   * [bulk_extractor](https://github.com/simsong/bulk_extractor/) - Command line tool for extracting email addresses, credit card numbers, URLs, and other types of information from many types of files, including compressed files and images.
   * [chkrootkit](http://www.chkrootkit.org/) - Checks local Linux systems for rootkits.
   * [docker-explorer](https://github.com/google/docker-explorer) - Docker file system forensic tool.
-
-  #### Honeypot Tools
-  * [Modern Honey Network (mhn)](https://github.com/threatstream/mhn/) - Multipurpose honeypot with centralized management and many integrations.
-  * [dionaea](https://github.com/DinoTools/dionaea) - Multipurpose honeypot.
-  * [glutton](https://github.com/mushorg/glutton/) - Multipurpose honeypot.
-  * [Cowrie](https://github.com/cowrie/cowrie/) - SSH/Telnet honeypot.
-  * [Cowrie Docker](https://github.com/cowrie/docker-cowrie) - Docker version of Cowrie, SSH/Telnet honeypot.
-  * [Shadow Daemon](https://github.com/zecure/shadowd/) - Collection of tools to detect, record, and prevent attacks on web applications.
-  * [elastichoney](https://github.com/jordan-wright/elastichoney/) - Elasticsearch honeypot.
-  * [Honeypress](https://github.com/dustyfresh/HoneyPress/) - WordPress honeypot in a docker container.
-  * [wp-smart-honeypot](https://github.com/freak3dot/wp-smart-honeypot/) - WordPress plugin and honeypot designed to reduce comment spam.
-  * [Wordpot](https://github.com/gbrindisi/wordpot) - WordPress honeypot.
-  * [MongoDB-HoneyProxy](https://github.com/Plazmaz/MongoDB-HoneyProxy/) - MongoDB honeypot.
-  * [MysqlPot](https://github.com/schmalle/MysqlPot/) - MySQL honeypot.
-  * [Nosqlpot](https://github.com/torque59/nosqlpot/) - NoSQL honeypot.
-  * [bap - Basic Authentication honeyPot](https://github.com/bjeborn/basic-auth-pot/) - HTTP basic authentication web service honeypot.
-  * [Nodepot](https://github.com/schmalle/Nodepot/) - NodeJS web application honeypot.
-  * [Servletpot](https://github.com/schmalle/Servletpot/) - Web application honeypot written in Java, making use of Apache HttpClient libraries, MySQL connector, Cassandra connector.
-  * [phpmyadmin_honeypot](https://github.com/gfoss/phpmyadmin_honeypot/) - PHPMyAdmin honeypot.
-  * [SpamScope](https://github.com/SpamScope/spamscope/) - Spam analysis tool.
-  * [Thug](https://github.com/buffer/thug/) - Python based honeyclient tool.
-  * [conpot](https://github.com/mushorg/conpot/) - ICS/SCADA honeypot.
-  * [glastopf](https://github.com/mushorg/glastopf/) - Python based web application honeypot.
-  * [smart-honeypot](https://github.com/freak3dot/smart-honeypot/) - PHP based honeypot.
+  
+  #### Memory Analysis
+  * [Volatility](https://github.com/volatilityfoundation/volatility) - Advanced memory forensics framework.
+  * [VolatilityBot](https://github.com/mkorman90/VolatilityBot) - Automation tool utilizing Volatility.
+  * [Evolve](https://github.com/JamesHabben/evolve) - Web interface for Volatility advanced memory forensics framework.
+  * [inVtero.net](https://github.com/ShaneK2/inVtero.net) - Windows x64 memory analysis tool.
+  * [Linux Memory Extractor (LiME)](https://github.com/504ensicsLabs/LiME) - A Loadable Kernel Module (LKM) allowing for volatile memory extraction of Linux-based systems.
+  * [Memoryze](https://www.fireeye.com/services/freeware/memoryze.html) - Memory forensics software.
+  * [Responder PRO](https://www.countertack.com/responder-pro) - Commercial memory analysis software.
+  * [WindowsSCOPE](http://www.windowsscope.com/) - Commercial memory forensics software for Windows systems.
+  * [Microsoft User Mode Process Dumper](https://www.microsoft.com/en-us/download/details.aspx?id=4060) - Dumps any running Win32 processes memory image on the fly.
+  * [PMDump](http://www.ntsecurity.nu/toolbox/pmdump/) - Tool for dumping memory contents of a process without stopping the process.
 
   #### Incident Response
   * [Osquery](https://osquery.io/) - Multiplatform framework for querying operating systems similar to SQL queries.
@@ -716,6 +705,30 @@
   * [MozDef](https://github.com/mozilla/MozDef) - Mozilla defense platform.
   * [Redline](https://www.fireeye.com/services/freeware/redline.html) - Investigative tool able to scan processes, memory, file system metadata, and more.
   * [Zentral](https://github.com/zentralopensource/zentral) - Monitors system events using osquery.
+
+  #### Honeypot Tools
+  * [Modern Honey Network (mhn)](https://github.com/threatstream/mhn/) - Multipurpose honeypot with centralized management and many integrations.
+  * [dionaea](https://github.com/DinoTools/dionaea) - Multipurpose honeypot.
+  * [glutton](https://github.com/mushorg/glutton/) - Multipurpose honeypot.
+  * [Cowrie](https://github.com/cowrie/cowrie/) - SSH/Telnet honeypot.
+  * [Cowrie Docker](https://github.com/cowrie/docker-cowrie) - Docker version of Cowrie, SSH/Telnet honeypot.
+  * [Shadow Daemon](https://github.com/zecure/shadowd/) - Collection of tools to detect, record, and prevent attacks on web applications.
+  * [elastichoney](https://github.com/jordan-wright/elastichoney/) - Elasticsearch honeypot.
+  * [Honeypress](https://github.com/dustyfresh/HoneyPress/) - WordPress honeypot in a docker container.
+  * [wp-smart-honeypot](https://github.com/freak3dot/wp-smart-honeypot/) - WordPress plugin and honeypot designed to reduce comment spam.
+  * [Wordpot](https://github.com/gbrindisi/wordpot) - WordPress honeypot.
+  * [MongoDB-HoneyProxy](https://github.com/Plazmaz/MongoDB-HoneyProxy/) - MongoDB honeypot.
+  * [MysqlPot](https://github.com/schmalle/MysqlPot/) - MySQL honeypot.
+  * [Nosqlpot](https://github.com/torque59/nosqlpot/) - NoSQL honeypot.
+  * [bap - Basic Authentication honeyPot](https://github.com/bjeborn/basic-auth-pot/) - HTTP basic authentication web service honeypot.
+  * [Nodepot](https://github.com/schmalle/Nodepot/) - NodeJS web application honeypot.
+  * [Servletpot](https://github.com/schmalle/Servletpot/) - Web application honeypot written in Java, making use of Apache HttpClient libraries, MySQL connector, Cassandra connector.
+  * [phpmyadmin_honeypot](https://github.com/gfoss/phpmyadmin_honeypot/) - PHPMyAdmin honeypot.
+  * [SpamScope](https://github.com/SpamScope/spamscope/) - Spam analysis tool.
+  * [Thug](https://github.com/buffer/thug/) - Python based honeyclient tool.
+  * [conpot](https://github.com/mushorg/conpot/) - ICS/SCADA honeypot.
+  * [glastopf](https://github.com/mushorg/glastopf/) - Python based web application honeypot.
+  * [smart-honeypot](https://github.com/freak3dot/smart-honeypot/) - PHP based honeypot.
 
   #### Other
   * [Kayak Car Hacking Tool](https://github.com/ParrotSec/car-hacking-tools) - Tool for Kayak car hacking.

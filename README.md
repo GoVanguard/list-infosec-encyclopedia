@@ -654,7 +654,12 @@
   * [Autopsy](https://www.sleuthkit.org/autopsy/) - Graphical interface to The Sleuth Kit.
   * [Digital Forensics Framework (DFF)](https://tools.kali.org/forensics/dff) - Open source digital forensics framework with GUI.
   * [nightHawk](https://github.com/biggiesmallsAG/nightHawkResponse) - Platform for digital forensics presentation, using Elasticsearch.
+  * [IREC](https://binalyze.com/products/irec-free/) - All in one evidence collector.
   * [Rekall](http://www.rekall-forensic.com/) - Incident response and forensics tool.
+  * [PSRecon](https://github.com/gfoss/PSRecon/) - Windows based data gathering tool using PowerShell.
+  * [Regripper](https://www.forensicswiki.org/wiki/Regripper) - Windows Registry data extraction tool.
+  * [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - PowerShell based digital forensics suite.
+  * [Fast Evidence Collector Toolkit (FECT)](https://github.com/jipegit/FECT) - Lightweight digital forensics tool.
   * [Foremost](http://foremost.sourceforge.net/) - File recovery tool.
   * [extundelete](http://extundelete.sourceforge.net/) - ext3 and ext4 file recovery tool.
   * [magneto-malware-scanner](https://github.com/gwillem/magento-malware-scanner) - Malware scanning platform.

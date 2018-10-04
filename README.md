@@ -600,6 +600,12 @@
   #### OSINT Tools
   * [Shodan](https://www.shodan.io/) - World's first search engine for Internet-connected devices.
   * [Maltego](http://www.paterva.com/web7/) - Proprietary software for open source intelligence and forensics, from Paterva.
+  * [Alienvault Open Threat Exchange (OTX)](https://otx.alienvault.com/) - Live threat feed.
+  * [Combine](https://github.com/mlsecproject/combine) - Open source threat intelligence feed gathering tool.
+  * [ThreatCrowd](https://www.threatcrowd.org/) - Threat search engine.
+  * [ThreatTracker](https://github.com/michael-yip/ThreatTracker) - Python based IOC tracker.
+  * [malc0de](http://malc0de.com/database/) - Searchable incident database.
+  * [Malware Domain List](http://www.malwaredomainlist.com/) - Search and share malicious URLs.
   * [Mxtoolbox](https://mxtoolbox.com/) - Email domain and DNS lookup.
   * [Robtex](https://www.robtex.com/) - Domain and IP address lookup.
   * [theHarvester](https://github.com/laramies/theHarvester) - E-mail, subdomain and people names harvester.

@@ -292,6 +292,20 @@
   - Exploit-DB (https://www.exploit-db.com/)
   - 0day.today (https://0day.today/)
   - Packet Storm Security (https://packetstormsecurity.com/)
+  
+### Malware Samples and Databases
+  - InfoSec - CERT-PA (https://infosec.cert-pa.it/analyze/submission.html)
+  - Contagio (http://contagiodump.blogspot.com/)
+  - MalwareDB (http://malwaredb.malekal.com/)
+  - MalShare (https://malshare.com/)
+  - theZoo (https://github.com/ytisf/theZoo)
+  - Tracker h3x (http://tracker.h3x.eu/)
+  - vduddu malware repo (https://github.com/vduddu/Malware)
+  - VirusBay (https://beta.virusbay.io/)
+  - VirusSign (http://www.virussign.com/)
+  - VirusShare (https://virusshare.com/)
+  - VX Vault (http://vxvault.net/ViriList.php)
+  - Zeus Trojan source code (https://github.com/Visgean/Zeus)
 
 ### Tools
 
@@ -623,6 +637,7 @@
   #### Reverse Engineering Tools
   * [VirusTotal](https://www.virustotal.com/#/home/upload) - Online malware scanner.
   * [Hybrid Analysis](https://www.hybrid-analysis.com/) - Online malware scanner.
+  * [Ragpicker](https://github.com/robbyFux/Ragpicker) - Malware analysis tool.
   * [Interactive Disassembler (IDA Pro)](https://www.hex-rays.com/products/ida/) - Proprietary multi-processor disassembler and debugger for Windows, GNU/Linux, or macOS; also has a free version, [IDA Free](https://www.hex-rays.com/products/ida/support/download_freeware.shtml).
   * [WDK/WinDbg](https://msdn.microsoft.com/en-us/windows/hardware/hh852365.aspx) - Windows Driver Kit and WinDbg.
   * [OllyDbg](http://www.ollydbg.de/) - x86 debugger for Windows binaries that emphasizes binary code analysis.

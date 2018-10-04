@@ -601,12 +601,18 @@
   * [Shodan](https://www.shodan.io/) - World's first search engine for Internet-connected devices.
   * [Maltego](http://www.paterva.com/web7/) - Proprietary software for open source intelligence and forensics, from Paterva.
   * [Alienvault Open Threat Exchange (OTX)](https://otx.alienvault.com/) - Live threat feed.
+  * [Talos Intelligence](https://talosintelligence.com/) - Live threat feed.
+  * [Cymon](https://cymon.io/) - Threat intelligence feed.
   * [Combine](https://github.com/mlsecproject/combine) - Open source threat intelligence feed gathering tool.
   * [ThreatCrowd](https://www.threatcrowd.org/) - Threat search engine.
   * [ThreatTracker](https://github.com/michael-yip/ThreatTracker) - Python based IOC tracker.
   * [malc0de](http://malc0de.com/database/) - Searchable incident database.
   * [Malware Domain List](http://www.malwaredomainlist.com/) - Search and share malicious URLs.
+  * [Machinae](https://github.com/hurricanelabs/machinae) - Multipurpose OSINT tool using threat intelligence feeds.
   * [Mxtoolbox](https://mxtoolbox.com/) - Email domain and DNS lookup.
+  * [BadIPs](https://www.badips.com/) - Online blacklist lookup.
+  * [Spamhaus](https://www.spamhaus.org/lookup/) - Online blacklist lookup.
+  * [Spamcop](https://www.spamcop.net/bl.shtml) - IP based blacklist.
   * [Robtex](https://www.robtex.com/) - Domain and IP address lookup.
   * [theHarvester](https://github.com/laramies/theHarvester) - E-mail, subdomain and people names harvester.
   * [DNSDumpster](https://dnsdumpster.com/) - Online DNS recon and search service.
@@ -674,6 +680,14 @@
   * [Capstone](http://www.capstone-engine.org/) - Lightweight multi-platform, multi-architecture disassembly framework.
   * [rVMI](https://github.com/fireeye/rVMI) - Debugger on steroids; inspect userspace processes, kernel drivers, and preboot environments in a single tool.
   * [PDF Examiner](http://www.pdfexaminer.com/) - Online PDF scanner.
+  * [Balbuzard](https://bitbucket.org/decalage/balbuzard/wiki/Home) - Malware analysis tool with reverse obfuscation.
+  * [de4dot](https://github.com/0xd4d/de4dot) - .NET deobfuscator and unpacker.
+  * [FireEye Labs Obfuscated String Solver (FLOSS)](https://github.com/fireeye/flare-floss) - Malware deobfuscator.
+  * [NoMoreXOR](https://github.com/hiddenillusion/NoMoreXOR) - Frequency analysis tool for trying to crack 256-bit XOR keys.
+  * [PackerAttacker](https://github.com/BromiumLabs/PackerAttacker) - Generic hidden code extractor for Windows malware.
+  * [unXOR](https://github.com/tomchop/unxor/) - Tool that guesses XOR keys using known plaintext attacks.
+  * [xortool](https://github.com/hellman/xortool) - Tool for guessing XOR keys.
+  * [VirtualDeobfuscator](https://github.com/jnraber/VirtualDeobfuscator) - Reverse engineering tool for virtualization wrappers.
 
   #### Side-channel Tools
   * [ChipWhisperer](http://chipwhisperer.com) - Complete open-source toolchain for side-channel power analysis and glitching attacks.

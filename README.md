@@ -642,13 +642,26 @@
 
   #### Reverse Engineering Tools
   * [VirusTotal](https://www.virustotal.com/#/home/upload) - Online malware scanner.
+  * [PacketTotal](https://packettotal.com/) - Online pcap file analyzer.
+  * [NetworkTotal](https://www.networktotal.com/index.html) - Online pcap file analyzer.
   * [Hybrid Analysis](https://www.hybrid-analysis.com/) - Online malware scanner.
+  * [Malaice.io](https://malice.io/) - Open source malware analyzer.
+  * [Cuckoo Sandbox](https://cuckoosandbox.org/) - Online malware scanner.
+  * [Cuckoo Modified](https://github.com/brad-accuvant/cuckoo-modified) - Fork of Cuckoo Sandbox with multiple improvements.
+  * [Cuckoo Modified API](https://github.com/keithjjones/cuckoo-modified-api) - Python API for Cuckoo Modified.
+  * [Cryptam](http://www.cryptam.com/) - Online malicious document scanner.
   * [Ragpicker](https://github.com/robbyFux/Ragpicker) - Malware analysis tool.
+  * [DRAKVUF](https://github.com/tklengyel/drakvuf) - Virtualization based agentless black-box binary analysis system.
+  * [Sandboxed Execution Environment](https://github.com/F-Secure/see) - Framework for building sandboxed malware execution environments.
+  * [Malheur](https://github.com/rieck/malheur) - Automated sandbox analysis of malware behavior.
+  * [Metadefender](https://metadefender.opswat.com/#!/) - Online file and hash analyzer.
   * [Interactive Disassembler (IDA Pro)](https://www.hex-rays.com/products/ida/) - Proprietary multi-processor disassembler and debugger for Windows, GNU/Linux, or macOS; also has a free version, [IDA Free](https://www.hex-rays.com/products/ida/support/download_freeware.shtml).
   * [WDK/WinDbg](https://msdn.microsoft.com/en-us/windows/hardware/hh852365.aspx) - Windows Driver Kit and WinDbg.
   * [OllyDbg](http://www.ollydbg.de/) - x86 debugger for Windows binaries that emphasizes binary code analysis.
   * [Radare2](http://rada.re/r/index.html) - Open source, crossplatform reverse engineering framework.
   * [x64dbg](http://x64dbg.com/) - Open source x64/x32 debugger for windows.
+  * [firmware.re](http://firmware.re/) - Firmware analyzier.
+  * [HaboMalHunter](https://github.com/Tencent/HaboMalHunter) - Automated malware analysis tool for Linux ELF files.
   * [Immunity Debugger](http://debugger.immunityinc.com/) - Powerful way to write exploits and analyze malware.
   * [Evan's Debugger](http://www.codef00.com/projects#debugger) - OllyDbg-like debugger for GNU/Linux.
   * [Medusa](https://github.com/wisk/medusa) - Open source, cross-platform interactive disassembler.
@@ -660,6 +673,7 @@
   * [Voltron](https://github.com/snare/voltron) - Extensible debugger UI toolkit written in Python.
   * [Capstone](http://www.capstone-engine.org/) - Lightweight multi-platform, multi-architecture disassembly framework.
   * [rVMI](https://github.com/fireeye/rVMI) - Debugger on steroids; inspect userspace processes, kernel drivers, and preboot environments in a single tool.
+  * [PDF Examiner](http://www.pdfexaminer.com/) - Online PDF scanner.
 
   #### Side-channel Tools
   * [ChipWhisperer](http://chipwhisperer.com) - Complete open-source toolchain for side-channel power analysis and glitching attacks.

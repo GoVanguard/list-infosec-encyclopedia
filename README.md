@@ -698,7 +698,6 @@
   #### Forensic Tools
   * [SIFT Workstation](https://digital-forensics.sans.org/community/downloads) - Linux distro (with optional VM) for digital forensics.
   * [Appliance for Digital Investigation and Analysis (ADIA)](https://forensics.cert.org/#ADIA) - VMware virtual appliance for digital forensics.
-  * [Security Onion](https://github.com/Security-Onion-Solutions/security-onion) - Linux distro for monitoring.
   * [PALADIN](https://sumuri.com/software/paladin/) - Linux distro for digital forensics.
   * [CAINE](https://www.caine-live.net/index.html) - Italian live Linux distro for digital forensics.
   * [Maltego](http://www.paterva.com/web7/) - Proprietary software for open source intelligence and forensics, from Paterva.
@@ -786,6 +785,15 @@
   * [conpot](https://github.com/mushorg/conpot/) - ICS/SCADA honeypot.
   * [glastopf](https://github.com/mushorg/glastopf/) - Python based web application honeypot.
   * [smart-honeypot](https://github.com/freak3dot/smart-honeypot/) - PHP based honeypot.
+  
+  #### Monitoring and IDS/IPS
+  * [Security Onion](https://github.com/Security-Onion-Solutions/security-onion) - Linux distro for monitoring.
+  * [Snort](https://www.snort.org/) - Open source NIPS/NIDS.
+  * [OSSEC](http://www.ossec.net/) - Open source HIDS.
+  * [AIEngine](https://bitbucket.org/camp0/aiengine) - Very advanced NIDS.
+  * [Suricata](https://suricata-ids.org/) - Open source NIPS/NIDS.
+  * [SSHWATCH](https://github.com/marshyski/sshwatch) - SSH IPS.
+  * [Elastic Stack](https://www.elastic.co/products) - Also known as the ELK stack, the combination of Elasticsearch, Logstash, and Kibana, for monitoring and logging.
 
   #### Other
   * [Kayak Car Hacking Tool](https://github.com/ParrotSec/car-hacking-tools) - Tool for Kayak car hacking.

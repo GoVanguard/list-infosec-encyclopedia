@@ -286,7 +286,9 @@
   - Validated CloudFront SSL Domains (https://medium.com/@vysec.private/validated-cloudfront-ssl-domains-27895822cea3)
   - CloudFront Hijacking (https://www.mindpointgroup.com/blog/pen-test/cloudfront-hijacking/)
   - Using robots.txt to Locate Your Targets (http://www.behindthefirewalls.com/2013/07/using-robotstxt-to-locate-your-targets.html)
+  - How to Obfuscate JacaScript in Metasploit (https://github.com/rapid7/metasploit-framework/wiki/How-to-obfuscate-JavaScript-in-Metasploit)
   - Awesome Lockpicking (https://github.com/meitar/awesome-lockpicking)
+  - Awesome CTF (https://github.com/apsdehal/awesome-ctf)
 
 ### Clearnet Exploit Databases
   - Exploit-DB (https://www.exploit-db.com/)
@@ -562,6 +564,7 @@
   #### Hash Cracking Tools
   * [Hashcat](http://hashcat.net/hashcat/) - Fast hash cracking utility with support for most known hashes as well as OpenCL and CUDA acceleration.
   * [John the Ripper](http://www.openwall.com/john/) - Fast password cracker.
+  * [John the Ripper Jumbo edition](https://github.com/magnumripper/JohnTheRipper) - Community enhanced version of John the Ripper.
   * [CeWL](https://digi.ninja/projects/cewl.php) - Generates custom wordlists by spidering a target's website and collecting unique words.
   * [CrackStation](https://crackstation.net/) - Online password cracker.
   * [JWT Cracker](https://github.com/lmammino/jwt-cracker) - Simple HS256 JWT token brute force cracker.

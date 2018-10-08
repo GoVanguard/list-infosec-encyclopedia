@@ -375,6 +375,7 @@
   * [Reverse Shell Cheat Sheet](https://highon.coffee/blog/reverse-shell-cheat-sheet/)
   * [SQL Injection Cheat Sheet](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/)
   * [Windows Path Traversal Cheat Sheet](https://www.gracefulsecurity.com/path-traversal-cheat-sheet-windows/)
+  * [Hacker101](https://www.hacker101.com/) - Online training resource.
 
   #### Network Reconnaissance Tools
   * [Shodan](https://shodan.io/) - Database containing information on all accessible domains on the internet obtained from passive scanning.

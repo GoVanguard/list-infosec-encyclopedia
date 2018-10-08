@@ -291,11 +291,14 @@
   - How to Obfuscate JacaScript in Metasploit (https://github.com/rapid7/metasploit-framework/wiki/How-to-obfuscate-JavaScript-in-Metasploit)
   - Awesome Lockpicking (https://github.com/meitar/awesome-lockpicking)
   - Awesome CTF (https://github.com/apsdehal/awesome-ctf)
+  - android-security-awesome (https://github.com/ashishb/android-security-awesome)
+  - Awesome Bug Bounty (https://github.com/djadmin/awesome-bug-bounty)
 
 ### Clearnet Exploit Databases
   - Exploit-DB (https://www.exploit-db.com/)
   - 0day.today (https://0day.today/)
   - Packet Storm Security (https://packetstormsecurity.com/)
+  - Awesome CVE PoC (https://github.com/qazbnm456/awesome-cve-poc)
   
 ### Malware Samples and Databases
   - InfoSec - CERT-PA (https://infosec.cert-pa.it/analyze/submission.html)
@@ -365,6 +368,7 @@
   * [Web Application Security Quiz](https://timoh6.github.io/WebAppSecQuiz/) - 18 question online web app security quiz.
   * [OpenSecurityTraining.info](http://opensecuritytraining.info/) - Free online training resource.
   * [PentesterLab](https://pentesterlab.com/) - Tiered online training resources.
+  * [Cybrary.it](https://www.cybrary.it/) - Free online courses.
 
   #### Network Reconnaissance Tools
   * [Shodan](https://shodan.io/) - Database containing information on all accessible domains on the internet obtained from passive scanning.
@@ -384,6 +388,7 @@
   * [OpenVAS](http://www.openvas.org/) - Open source implementation of the popular Nessus vulnerability assessment system.
   * [Nessus](https://www.tenable.com/products/nessus/nessus-professional) - Commercial network vulnerability scanner.
   * [Nexpose](https://www.rapid7.com/products/nexpose/) - Commercial vulnerability and risk management assessment engine that integrates with Metasploit, sold by Rapid7.
+  * [Vuls](https://github.com/future-architect/vuls) - Agentless Linux/FreeBSD vulnerability scanner written in Go.
 
   #### Web Vulnerability Scanners
   * [Netsparker Web Application Security Scanner](https://www.netsparker.com/) - Commercial web application security scanner to automatically find many different types of security flaws.
@@ -813,6 +818,7 @@
   * [radamsa](https://gitlab.com/akihe/radamsa) - General purpose fuzzing tool.
   * [fuzzbox](https://github.com/iSECPartners/fuzzbox/) - Multi-codec media fuzzing tool.
   * [melkor-android](https://github.com/anestisb/melkor-android/) - Android fuzzing tool for ELF file formats.
+  * [BruteX Wordlists](https://github.com/coreb1t/BruteX/tree/master/wordlists) - Wordlist repo.
 
 ### Reports
   - GoVanguard sample reports (https://github.com/GoVanguard/doc-infosec-report-samples)

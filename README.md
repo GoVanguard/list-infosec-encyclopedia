@@ -293,6 +293,7 @@
   - Awesome CTF (https://github.com/apsdehal/awesome-ctf)
   - android-security-awesome (https://github.com/ashishb/android-security-awesome)
   - Awesome Bug Bounty (https://github.com/djadmin/awesome-bug-bounty)
+  - Awesome Yara (https://github.com/InQuest/awesome-yara)
 
 ### Clearnet Exploit Databases
   - Exploit-DB (https://www.exploit-db.com/)
@@ -369,6 +370,11 @@
   * [OpenSecurityTraining.info](http://opensecuritytraining.info/) - Free online training resource.
   * [PentesterLab](https://pentesterlab.com/) - Tiered online training resources.
   * [Cybrary.it](https://www.cybrary.it/) - Free online courses.
+  * [XSS Cheat Sheet](https://n0p.net/penguicon/php_app_sec/mirror/xss.html)
+  * [LFI Cheat Sheet](https://highon.coffee/blog/lfi-cheat-sheet/)
+  * [Reverse Shell Cheat Sheet](https://highon.coffee/blog/reverse-shell-cheat-sheet/)
+  * [SQL Injection Cheat Sheet](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/)
+  * [Windows Path Traversal Cheat Sheet](https://www.gracefulsecurity.com/path-traversal-cheat-sheet-windows/)
 
   #### Network Reconnaissance Tools
   * [Shodan](https://shodan.io/) - Database containing information on all accessible domains on the internet obtained from passive scanning.

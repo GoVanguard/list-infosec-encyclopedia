@@ -72,6 +72,8 @@
   - Hacked Again
   - The Computer Incident Response Planning Handbook: Executable Plans for Protecting Information at Risk
   - The Tao of Network Security Monitoring: Beyond Intrusion Detection
+  - Surreptitious Software: Obfuscation, Watermarking, and Tamperproofing for Software Protection
+  - Secure Programming HOWTO (https://dwheeler.com/secure-programs/Secure-Programs-HOWTO/index.html)
 
 ### Conferences
   - SANS Annual Conference
@@ -358,6 +360,11 @@
   * [Phishing With PowerPoint](https://www.blackhillsinfosec.com/phishing-with-powerpoint/) - Guide on getting unsuspecting users to open malicious PPT files.
   * [Executing Metasploit & Empire Payloads from MS Office Document Properties part 1](https://stealingthe.network/executing-metasploit-empire-payloads-from-ms-office-document-properties-part-1-of-2/) - How to stealthily deliver a Metasploit payload via MS Office document properties and a simple macro.
   * [Executing Metasploit & Empire Payloads from MS Office Document Properties part 2](https://stealingthe.network/executing-metasploit-empire-payloads-from-ms-office-document-properties-part-2-of-2/) - Like part 1, but focusing on Empire rather than Metasploit.
+  * [Hack This Site](https://www.hackthissite.org/) - Learn about web application security by hacking this website.
+  * [Enigma Group](https://www.enigmagroup.org/) - Web application training resource.
+  * [Web Application Security Quiz](https://timoh6.github.io/WebAppSecQuiz/) - 18 question online web app security quiz.
+  * [OpenSecurityTraining.info](http://opensecuritytraining.info/) - Free online training resource.
+  * [PentesterLab](https://pentesterlab.com/) - Tiered online training resources.
 
   #### Network Reconnaissance Tools
   * [Shodan](https://shodan.io/) - Database containing information on all accessible domains on the internet obtained from passive scanning.

@@ -717,6 +717,8 @@
 
   #### Forensic Tools
   * [SIFT Workstation](https://digital-forensics.sans.org/community/downloads) - Linux distro (with optional VM) for digital forensics.
+  * [SANS Investigative Forensics Toolkit (SIFT)](https://github.com/sans-dfir/sift) - Linux VM for digital forensics.
+  * [DEFT Linux](http://www.deftlinux.net/) - Linux distro for digital forensics analysis.
   * [Appliance for Digital Investigation and Analysis (ADIA)](https://forensics.cert.org/#ADIA) - VMware virtual appliance for digital forensics.
   * [PALADIN](https://sumuri.com/software/paladin/) - Linux distro for digital forensics.
   * [CAINE](https://www.caine-live.net/index.html) - Italian live Linux distro for digital forensics.
@@ -744,6 +746,10 @@
   * [bulk_extractor](https://github.com/simsong/bulk_extractor/) - Command line tool for extracting email addresses, credit card numbers, URLs, and other types of information from many types of files, including compressed files and images.
   * [chkrootkit](http://www.chkrootkit.org/) - Checks local Linux systems for rootkits.
   * [docker-explorer](https://github.com/google/docker-explorer) - Docker file system forensic tool.
+  * [GRR Rapid Response](https://github.com/google/grr) - Incident response framework focused on remote live forensics.
+  * [Linux Expl0rer](https://github.com/intezer/linux-explorer) - Easy-to-use live forensics toolbox for Linux endpoints written in Python & Flask.
+  * [Chrome URL Dumper](https://github.com/eLoopWoo/chrome-url-dumper) - Python based agent that gathers and dumps Chrome history (URLs).
+  * [Hindsight](https://github.com/obsidianforensics/hindsight) - Chrome/Chromium browser forensics tool.
   
   #### Memory Analysis
   * [Volatility](https://github.com/volatilityfoundation/volatility) - Advanced memory forensics framework.

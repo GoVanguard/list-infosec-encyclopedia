@@ -74,6 +74,9 @@
   - The Tao of Network Security Monitoring: Beyond Intrusion Detection
   - Surreptitious Software: Obfuscation, Watermarking, and Tamperproofing for Software Protection
   - Secure Programming HOWTO (https://dwheeler.com/secure-programs/Secure-Programs-HOWTO/index.html)
+  - Network Forensics: Tracking Hackers through Cyberspace
+  - The Art of Memory Forensics
+  - Practice of Network Security Monitoring
 
 ### Conferences
   - SANS Annual Conference

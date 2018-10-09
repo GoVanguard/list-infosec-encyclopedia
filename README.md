@@ -294,6 +294,7 @@
   - android-security-awesome (https://github.com/ashishb/android-security-awesome)
   - Awesome Bug Bounty (https://github.com/djadmin/awesome-bug-bounty)
   - Awesome Yara (https://github.com/InQuest/awesome-yara)
+  - Awesome ICS Security (https://github.com/hslatman/awesome-industrial-control-system-security)
 
 ### Clearnet Exploit Databases
   - Exploit-DB (https://www.exploit-db.com/)

@@ -466,6 +466,7 @@
   * [Fiddler](https://www.telerik.com/fiddler) - Cross platform packet capturing tool for capturing HTTP/HTTPS traffic.
   * [netsniff-ng](https://github.com/netsniff-ng/netsniff-ng) - Swiss army knife for Linux network sniffing.
   * [Dshell](https://github.com/USArmyResearchLab/Dshell) - Network forensic analysis framework.
+  * [Chaosreader](http://chaosreader.sourceforge.net/) - Universal TCP/UDP snarfing tool that dumps session data from various protocols.
 
   #### Proxies and MITM Tools
   * [Responder](https://github.com/SpiderLabs/Responder) - Open source NBT-NS, LLMNR, and MDNS poisoner.
@@ -483,6 +484,8 @@
   * [Airodump-ng](https://www.aircrack-ng.org/doku.php?id=airodump-ng) - Individual component within Aircrack-ng just for capturing raw 802.11 frames.
   * [Wifite](https://github.com/derv82/wifite) - Automated wireless attack tool.
   * [Fluxion](https://github.com/FluxionNetwork/fluxion) - Suite of automated social engineering based WPA attacks.
+  * [NetStumbler](http://www.netstumbler.com/downloads/) - WLAN scanning tool.
+  * [Kismet](https://www.patreon.com/kismetwireless) - Wireless network discovery tool.
 
   #### Transport Layer Security Tools
   * [tlssled](https://tools.kali.org/information-gathering/tlssled) - Comprehensive TLS/SSL testing suite.
@@ -549,7 +552,8 @@
   * [Joint Advanced Defense Assessment for Android Applications (JAADAS)](https://github.com/flankerhqd/JAADAS/) - Multipurpose Android static analysis tool.
   * [Quick Android Review Kit (Qark)](https://github.com/linkedin/qark/) - Tool for finding security related Android application vulnerabilities.
   * [truffleHog](https://github.com/dxa4481/truffleHog) - Git repo scanner.
-  * [Yara](https://github.com/VirusTotal/yara) - Static pattern analysis tool for malware researchers/
+  * [Yara](https://github.com/VirusTotal/yara) - Static pattern analysis tool for malware researchers.
+    * [Icewater](https://github.com/SupportIntelligence/Icewater) - 16,432 free Yara rules.
 
   #### Dynamic Analyzers
   * [Cheat Engine](https://www.cheatengine.org/) - Memory debugger and hex editor for running applications.
@@ -631,6 +635,11 @@
   * [Cymon](https://cymon.io/) - Threat intelligence feed.
   * [Combine](https://github.com/mlsecproject/combine) - Open source threat intelligence feed gathering tool.
   * [ThreatCrowd](https://www.threatcrowd.org/) - Threat search engine.
+  * [AbuseIPDB](https://www.abuseipdb.com/) - Search engine for blacklisted IPs or domains.
+  * [Apility](https://apility.io/) - Search engine for blacklisted IPs or domains.
+  * [AutoShun](https://www.autoshun.org/) - Public repository of malicious IPs and other resources.
+  * [Binary Defense IP Ban List](https://www.binarydefense.com/banlist.txt) - Public IP blacklist.
+  * [Blocklist Ipsets](https://github.com/firehol/blocklist-ipsets) - Public IP blacklist.
   * [ThreatTracker](https://github.com/michael-yip/ThreatTracker) - Python based IOC tracker.
   * [malc0de](http://malc0de.com/database/) - Searchable incident database.
   * [Malware Domain List](http://www.malwaredomainlist.com/) - Search and share malicious URLs.

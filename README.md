@@ -439,6 +439,7 @@ If you're new to InfoSec and are looking for a concentrated list of reasources t
   * [Hak5](https://www.youtube.com/user/Hak5Darren/featured) - Hacking tools, guides and concepts.
   * [Schuyler Towne channel](https://www.youtube.com/user/SchuylerTowne/) - Lockpicking videos and security talks.
   * [bosnianbill](https://www.youtube.com/user/bosnianbill) - lockpicking videos.
+  * [Hacksplained](https://www.youtube.com/c/hacksplained) - Hacking guides and walkthroughs. 
 
 #### Illustrations and Presentations
   * [Introduction to Metasploit: Exploiting Web Applications](https://www.slideshare.net/DennisMaldonado5/metasploit-for-web-workshop)

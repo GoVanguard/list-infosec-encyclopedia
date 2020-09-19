@@ -342,7 +342,9 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
 * LayerOne
 * Nullcon
 * Nullcon Conference
+* Open Security Summit
 * PhreakNIC
+* Play Secure
 * RSA Conference United States
 * SANS Annual Conference
 * SANS Pen Test Annual Conferences

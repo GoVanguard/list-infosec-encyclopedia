@@ -11,9 +11,7 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
 * License
 
 ## Table of Contents
-<details>
-<summary>- [Resources](#resources)</summary>
-<br>
+- [Resources](#resources)</summary>
   * [Information Security Certifications](#information-security-certifications)
   * [Books](#books)
   * [Lockpicking Resources](#lockpicking-resources)
@@ -29,7 +27,6 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
   * [Clearnet Exploit Databases](#clearnet-exploit-databases)
   * [Awesome Master Lists](#awesome-master-lists)
   * [Knowledge Bases](#knowledge-bases)
-<details>  
 
 - [OSINT Tools Used](#osint-tools-used)
   * [General OSINT Tools](#general-osint-tools)

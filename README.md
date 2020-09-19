@@ -422,14 +422,13 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
 * [OWASP Damn Vulnerable Web Sockets (DVWS)](https://github.com/interference-security/DVWS/) - Vulnerable web application which works on web sockets for client-server communication.
 * [OWASP Juice Shop](https://github.com/bkimminich/juice-shop/) - JavaScript based intentionally insecure web application.
 * [OWASP NodeGoat](https://github.com/OWASP/NodeGoat/) - Includes Node.js web applications for learning the OWASP top 10.
+* [OWASP Railsgoat](https://github.com/OWASP/railsgoat) - A vulnerable version of Rails that follows the OWASP Top 10.
 * [OWASP SecurityShepard](https://github.com/OWASP/SecurityShepherd/) - Web and mobile application security training platform.
 * [OWASP WebGoat](https://www2.owasp.org/www-project-webgoat/) - WebGoat is an insecure application that allows the testing of vulnerabilities commonly found in Java-based applications that use common and popular open source components.
 * [OWASP security knowledge framework](https://owasp-skf.gitbook.io/asvs-write-ups/) - OWASP security knowledge framework labs exercises complete with write-ups.
 * [Over the Wire: Natas](http://overthewire.org/wargames/natas/) - Web application challenges.
-* [Railsgoat](https://github.com/OWASP/railsgoat) - A vulnerable version of Rails that follows the OWASP Top 10.
 * [Rapid7 Metsploitable](https://information.rapid7.com/download-metasploitable-2017.html?LS=1631875&CS=web) - Metasploitable is essentially a penetration testing lab in a box, available as a VMware virtual machine (VMX).
 * [RopeyTasks](https://github.com/continuumsecurity/RopeyTasks/) - Simple deliberately vulnerable web application.
-* [WebGoat](https://github.com/WebGoat/WebGoat/) - Intentionally insecure web application maintained by OWASP.
 * [XSS Exercises](https://xss-game.appspot.com/) - Webapp Cross-site scripting (XSS) bug hunting exercises.
 
 #### Informative Youtube Channels

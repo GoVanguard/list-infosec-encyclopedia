@@ -343,7 +343,6 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
 * Nullcon Conference
 * Open Security Summit
 * PhreakNIC
-* Play Secure
 * RSA Conference United States
 * SANS Annual Conference
 * SANS Pen Test Annual Conferences
@@ -362,6 +361,7 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
 * ThotCon
 * USENIX Security Symposium
 * Virus Bulletin Conference
+* conINT
 * secureCISO
 
 #### Online Videos

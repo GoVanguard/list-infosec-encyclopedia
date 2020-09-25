@@ -1458,37 +1458,22 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
   * [xortool](https://github.com/hellman/xortool/) - XOR cipher analysis tool.
 
 #### Post-Exploitation
-  * [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec/) - Multipurpose post-exploitation suite containing many plugins.
-  * [DBC2](https://github.com/Arno0x/DBC2/) - Multipurpose post-exploitation tool.
-  * [Empire](https://github.com/EmpireProject/Empire/) - PowerShell based (Windows) and Python based (Linux/OS X) post-exploitation framework.
-  * [EvilOSX](https://github.com/Marten4n6/EvilOSX/) - macOS backdoor with docker support.
-  * [FruityC2](https://github.com/xtr4nge/FruityC2/) - Open source, agent-based post-exploitation framework with a web UI for management.
-  * [PowerOPS](https://github.com/fdiskyou/PowerOPS/) - PowerShell and .NET based runspace portable post-exploitation utility.
-  * [ProcessHider](https://github.com/M00nRise/ProcessHider/) - Post-exploitation tool for hiding processes.
-  * [RemoteRecon](https://github.com/xorrior/RemoteRecon/) - Post-exploitation utility making use of multiple agents to perform different tasks.
-  * [TheFatRat](https://github.com/Exploit-install/TheFatRat) - Tool designed to generate remote access trojans (backdoors) with msfvenom.
-  * [Koadic](https://github.com/zerosum0x0/koadic) - Windows post-exploitation rootkit, primarily utilizing Windows Script Host.
-  * [p0wnedShell](https://github.com/Cn33liz/p0wnedShell) - PowerShell based post-exploitation utility utilizing .NET.
-  * [poet](https://github.com/mossberg/poet/) - Simple but multipurpose post-exploitation tool.
-  * [Pupy](https://github.com/n1nj4sec/pupy/) - Open source cross-platform post-exploitation tool, mostly written in Python.
-  * [PlugBot](https://www.redteamsecure.com/the-plugbot-hardware-botnet-rese  * [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec/) - Multipurpose post-exploitation suite containing many plugins.
-  * [DBC2](https://github.com/Arno0x/DBC2/) - Multipurpose post-exploitation tool.
-  * [Empire](https://github.com/EmpireProject/Empire/) - PowerShell based (Windows) and Python based (Linux/OS X) post-exploitation framework.
-  * [EvilOSX](https://github.com/Marten4n6/EvilOSX/) - macOS backdoor with docker support.
-  * [Fathomless](https://github.com/xor-function/fathomless) - A collection of post-exploitation tools for both Linux and Windows systems.
-  * [FruityC2](https://github.com/xtr4nge/FruityC2/) - Open source, agent-based post-exploitation framework with a web UI for management.
-  * [Koadic](https://github.com/zerosum0x0/koadic) - Windows post-exploitation rootkit, primarily utilizing Windows Script Host.
-  * [p0wnedShell](https://github.com/Cn33liz/p0wnedShell) - PowerShell based post-exploitation utility utilizing .NET.
-  * [PlugBot](https://www.redteamsecure.com/the-plugbot-hardware-botnet-research-project/) - Can be installed onto an ARM device for Command & Control use and more.
-  * [poet](https://github.com/mossberg/poet/) - Simple but multipurpose post-exploitation tool.
-  * [Portia](https://github.com/milo2012/portia) - Automated post-exploitation tool for lateral movement and privilege escalation.
-  * [PowerOPS](https://github.com/fdiskyou/PowerOPS/) - PowerShell and .NET based runspace portable post-exploitation utility.
-  * [ProcessHider](https://github.com/M00nRise/ProcessHider/) - Post-exploitation tool for hiding processes.
-  * [Pupy](https://github.com/n1nj4sec/pupy/) - Open source cross-platform post-exploitation tool, mostly written in Python.
-  * [RemoteRecon](https://github.com/xorrior/RemoteRecon/) - Post-exploitation utility making use of multiple agents to perform different tasks.
-  * [TheFatRat](https://github.com/Exploit-install/TheFatRat) - Tool designed to generate remote access trojans (backdoors) with msfvenom.arch-project/) - Can be installed onto an ARM device for Command & Control use and more.
-  * [Fathomless](https://github.com/xor-function/fathomless) - A collection of post-exploitation tools for both Linux and Windows systems.
-  * [Portia](https://github.com/milo2012/portia) - Automated post-exploitation tool for lateral movement and privilege escalation.
+* [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec/) - Multipurpose post-exploitation suite containing many plugins.
+* [DBC2](https://github.com/Arno0x/DBC2/) - Multipurpose post-exploitation tool.
+* [Empire](https://github.com/EmpireProject/Empire/) - PowerShell based (Windows) and Python based (Linux/OS X) post-exploitation framework.
+* [EvilOSX](https://github.com/Marten4n6/EvilOSX/) - macOS backdoor with docker support.
+* [Fathomless](https://github.com/xor-function/fathomless) - A collection of post-exploitation tools for both Linux and Windows systems.
+* [FruityC2](https://github.com/xtr4nge/FruityC2/) - Open source, agent-based post-exploitation framework with a web UI for management.
+* [Koadic](https://github.com/zerosum0x0/koadic) - Windows post-exploitation rootkit, primarily utilizing Windows Script Host.
+* [PlugBot](https://www.redteamsecure.com/the-plugbot-hardware-botnet-research-project/) - Can be installed onto an ARM device for Command & Control use and more.
+* [Portia](https://github.com/milo2012/portia) - Automated post-exploitation tool for lateral movement and privilege escalation.
+* [PowerOPS](https://github.com/fdiskyou/PowerOPS/) - PowerShell and .NET based runspace portable post-exploitation utility.
+* [ProcessHider](https://github.com/M00nRise/ProcessHider/) - Post-exploitation tool for hiding processes.
+* [Pupy](https://github.com/n1nj4sec/pupy/) - Open source cross-platform post-exploitation tool, mostly written in Python.
+* [RemoteRecon](https://github.com/xorrior/RemoteRecon/) - Post-exploitation utility making use of multiple agents to perform different tasks.
+* [TheFatRat](https://github.com/Exploit-install/TheFatRat) - Tool designed to generate remote access trojans (backdoors) with msfvenom.arch-project/) - Can be installed onto an ARM device for Command & Control use and more.
+* [p0wnedShell](https://github.com/Cn33liz/p0wnedShell) - PowerShell based post-exploitation utility utilizing .NET.
+* [poet](https://github.com/mossberg/poet/) - Simple but multipurpose post-exploitation tool.
 
 #### Exfiltration Tools
   * [Data Exfiltration Toolkit (DET)](https://github.com/PaulSec/DET) - Proof of concept to perform data exfiltration using either single or multiple channel(s) at the same time.

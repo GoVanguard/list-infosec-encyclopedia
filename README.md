@@ -385,6 +385,7 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
 * [Introduction to Software Exploits Part 2 - Exploitation in the Windows Environment](https://opensecuritytraining.info/Exploits2.html) - Online or in-person tutorial covering multiple areas of software exploitation, with emphasis on Windows exploitation.
 * [OpenSecurityTraining.info](https://opensecuritytraining.info/) - Free online training resource.
 * [PentesterLab](https://pentesterlab.com/) - Tiered online training resources.
+* [PortSwigger's lab](https://portswigger.net/web-security/all-labs) - Free and advanced labs for hands on training. 
 * [Phishing With Empire](https://enigma0x3.net/2016/03/15/phishing-with-empire/) - Guide on phishing with Empire.
 * [Phishing With PowerPoint](https://www.blackhillsinfosec.com/phishing-with-powerpoint/) - Guide on getting unsuspecting users to open malicious PPT files.
   

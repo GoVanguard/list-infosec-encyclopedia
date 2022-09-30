@@ -403,6 +403,7 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
   
 #### Training And Practice Exercises
 * [CPTE Courseware Kit](https://www.mile2.com/product/cpte-e-course-kit/) - Paid Official training kit for CPTE exam.
+* [CTFlearn](https://ctflearn.com/) - The most beginner-friendly way to get into hacking.
 * [Damn Vulnerable Web Application (DVWA)](https://dvwa.co.uk/) - Purposely vulnerable PHP/MySQL web application.
 * [Gruyere](https://google-gruyere.appspot.com/) - Gruyere is a web application that has multiple security bugs ranging from cross-site scripting and cross-site request forgery, to information disclosure, denial of service, and remote code execution.
 * [Hack This Site](https://www.hackthissite.org/) - Web application security exercises.
@@ -418,7 +419,9 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
 * [OWASP WebGoat](https://github.com/WebGoat/WebGoat) - WebGoat is an insecure application that allows the testing of vulnerabilities commonly found in Java-based applications that use common and popular open source components.
 * [OWASP security knowledge framework](https://owasp-skf.gitbook.io/asvs-write-ups/) - OWASP security knowledge framework labs exercises complete with write-ups.
 * [Over the Wire: Natas](https://overthewire.org/wargames/natas/) - Web application challenges.
+* [PicoCTF](https://picoctf.org/) - Multiple beginner as well as advanced CTF challenges.
 * [Rapid7 Metsploitable](https://information.rapid7.com/download-metasploitable-2017.html) - Metasploitable is essentially a penetration testing lab in a box, available as a VMware virtual machine (VMX).
+* [Root Me](https://www.root-me.org/) - The fast, easy, and affordable way to train your hacking skills.
 * [RopeyTasks](https://github.com/iriusrisk/RopeyTasks) - Simple deliberately vulnerable web application.
 * [XSS Exercises](https://xss-game.appspot.com/) - Webapp Cross-site scripting (XSS) bug hunting exercises.
 

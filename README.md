@@ -148,6 +148,7 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
 * Applied Cryptography: Protocols, Algorithms and Source Code in C
 * Applied Network Security Monitoring: Collection, Detection, and Analysis
 * Black Hat Python: Python Programming for Hackers and Pentesters
+* Bug Bounty Bootcamp By Vickie Li
 * Blue Team Handbook: Incident Response Edition: A condensed field guide for the Cyber Security Incident Responder
 * Bulletproof SSL and TLS: Understanding and Deploying SSL/TLS and PKI to Secure Servers and Web Applications
 * CEH Certified Ethical Hacker All-in-One Exam Guide

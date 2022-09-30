@@ -134,6 +134,11 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
 * [Offensive Security Exploitation Expert (OSEE)](https://www.offensive-security.com/awe-osee/)
 * [Offensive Security Web Expert (OSWE)](https://www.offensive-security.com/awae-oswe/)
 * [Offensive Security Wireless Professional (OSWP)](https://www.offensive-security.com/wifu-oswp/)
+* [Practical Network Penetration Tester (PNPT)](https://certifications.tcm-sec.com/pnpt/)
+* [HTB Certified Bug Bounty Hunter (HTB BBH)](https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter/)
+* [HTB Certified Penetration Testing Specialist (HTB CPTS)](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist/)
+* [eLearnSecurity Junior Penetration Tester (eJPT)](https://elearnsecurity.com/product/ejpt-certification/)
+
 
 #### Books
 * A Bug Hunter's Diary: A Guided Tour Through the Wilds of Software Security

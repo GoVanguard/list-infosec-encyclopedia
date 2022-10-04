@@ -1875,6 +1875,10 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
   
 ### Our Open Source Tools
   * [Legion](https://github.com/GoVanguard/legion) - Legion is an open source, easy-to-use, super-extensible and semi-automated network penetration testing tool that aids in discovery, reconnaissance and exploitation of information systems.
+  * [SecretScanner](https://github.com/GoVanguard/SecretScanner) - Searches for common keys and secrets in a stupidly simple way.
+  * [SecretSearcher](https://github.com/GoVanguard/SecretSearcher) - Python re-implementation of the classic SecretScanner shell script.
+  * [log4jShell Scanner](https://github.com/GoVanguard/Log4jShell_Scanner) - This shell script scans a vulnerable web application that is using a version of apache-log4j < 2.15.0.
+  * [WinPrivHeadStart](https://github.com/GoVanguard/script-win-privescalate-headstart) - The lazy mans local Windows privilege escalation script.
   
 ### License
 

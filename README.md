@@ -797,6 +797,7 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
 
 #### Twitter Search
 * [Backtweets](http://backtweets.com)
+* [ExportData](https://www.exportdata.io/)
 * [Fake Follower Check](https://fakers.statuspeople.com)
 * [First Tweet](https://ctrlq.org/first)
 * [FirstTweet](https://about.twitter.com/#i_intelligence)

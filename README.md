@@ -134,6 +134,11 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
 * [Offensive Security Exploitation Expert (OSEE)](https://www.offensive-security.com/awe-osee/)
 * [Offensive Security Web Expert (OSWE)](https://www.offensive-security.com/awae-oswe/)
 * [Offensive Security Wireless Professional (OSWP)](https://www.offensive-security.com/wifu-oswp/)
+* [Practical Network Penetration Tester (PNPT)](https://certifications.tcm-sec.com/pnpt/)
+* [HTB Certified Bug Bounty Hunter (HTB BBH)](https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter/)
+* [HTB Certified Penetration Testing Specialist (HTB CPTS)](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist/)
+* [eLearnSecurity Junior Penetration Tester (eJPT)](https://elearnsecurity.com/product/ejpt-certification/)
+
 
 #### Books
 * A Bug Hunter's Diary: A Guided Tour Through the Wilds of Software Security
@@ -143,6 +148,7 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
 * Applied Cryptography: Protocols, Algorithms and Source Code in C
 * Applied Network Security Monitoring: Collection, Detection, and Analysis
 * Black Hat Python: Python Programming for Hackers and Pentesters
+* Bug Bounty Bootcamp By Vickie Li
 * Blue Team Handbook: Incident Response Edition: A condensed field guide for the Cyber Security Incident Responder
 * Bulletproof SSL and TLS: Understanding and Deploying SSL/TLS and PKI to Secure Servers and Web Applications
 * CEH Certified Ethical Hacker All-in-One Exam Guide
@@ -379,6 +385,7 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
 * [Introduction to Software Exploits Part 2 - Exploitation in the Windows Environment](https://opensecuritytraining.info/Exploits2.html) - Online or in-person tutorial covering multiple areas of software exploitation, with emphasis on Windows exploitation.
 * [OpenSecurityTraining.info](https://opensecuritytraining.info/) - Free online training resource.
 * [PentesterLab](https://pentesterlab.com/) - Tiered online training resources.
+* [PortSwigger's lab](https://portswigger.net/web-security/all-labs) - Free and advanced labs for hands on training. 
 * [Phishing With Empire](https://enigma0x3.net/2016/03/15/phishing-with-empire/) - Guide on phishing with Empire.
 * [Phishing With PowerPoint](https://www.blackhillsinfosec.com/phishing-with-powerpoint/) - Guide on getting unsuspecting users to open malicious PPT files.
   
@@ -396,6 +403,7 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
   
 #### Training And Practice Exercises
 * [CPTE Courseware Kit](https://www.mile2.com/product/cpte-e-course-kit/) - Paid Official training kit for CPTE exam.
+* [CTFlearn](https://ctflearn.com/) - The most beginner-friendly way to get into hacking.
 * [Damn Vulnerable Web Application (DVWA)](https://dvwa.co.uk/) - Purposely vulnerable PHP/MySQL web application.
 * [Gruyere](https://google-gruyere.appspot.com/) - Gruyere is a web application that has multiple security bugs ranging from cross-site scripting and cross-site request forgery, to information disclosure, denial of service, and remote code execution.
 * [Hack This Site](https://www.hackthissite.org/) - Web application security exercises.
@@ -411,14 +419,18 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
 * [OWASP WebGoat](https://github.com/WebGoat/WebGoat) - WebGoat is an insecure application that allows the testing of vulnerabilities commonly found in Java-based applications that use common and popular open source components.
 * [OWASP security knowledge framework](https://owasp-skf.gitbook.io/asvs-write-ups/) - OWASP security knowledge framework labs exercises complete with write-ups.
 * [Over the Wire: Natas](https://overthewire.org/wargames/natas/) - Web application challenges.
+* [PicoCTF](https://picoctf.org/) - Multiple beginner as well as advanced CTF challenges.
 * [Rapid7 Metsploitable](https://information.rapid7.com/download-metasploitable-2017.html) - Metasploitable is essentially a penetration testing lab in a box, available as a VMware virtual machine (VMX).
+* [Root Me](https://www.root-me.org/) - The fast, easy, and affordable way to train your hacking skills.
 * [RopeyTasks](https://github.com/iriusrisk/RopeyTasks) - Simple deliberately vulnerable web application.
 * [XSS Exercises](https://xss-game.appspot.com/) - Webapp Cross-site scripting (XSS) bug hunting exercises.
 
 #### Informative Youtube Channels
 * [Computerphile](https://www.youtube.com/user/Computerphile/videos?view=0&sort=p&shelf_id=2) - Information security concepts.
+* [Farah Hawa](https://www.youtube.com/c/FarahHawa) - Hacking concepts and news.
 * [Hacksplained](https://www.youtube.com/c/hacksplained) - Hacking guides and walkthroughs. 
 * [Hak5](https://www.youtube.com/user/Hak5Darren/featured) - Hacking tools, guides and concepts.
+* [HackerSploit](https://www.youtube.com/c/HackerSploit) - Hacking Resources.
 * [Loi Liang Yang](https://www.youtube.com/channel/UC1szFCBUWXY3ESff8dJjjzw/videos) - Hacking guides.
 * [Motasem Hamdan](https://www.youtube.com/channel/UCNSdU_1ehXtGclimTVckHmQ/videos) - Hacking guides.
 * [Null Byte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g) - Hacking guides and concepts.

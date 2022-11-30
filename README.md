@@ -1240,6 +1240,7 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
 * [ACLight](https://github.com/cyberark/ACLight) - Script for advanced discovery of sensitive Privileged Accounts - includes Shadow Admins.
 * [BuiltWith](https://builtwith.com/) - Technology lookup tool for websites.
 * [CloudFail](https://github.com/m0rtem/CloudFail) - Unmask server IP addresses hidden behind Cloudflare by searching old database records and detecting misconfigured DNS.
+* [Criminalip](https://www.criminalip.io/) - Criminal IP is a specialized Cyber Threat Intelligence (CTI) search engine that allows users to search for various security-related information such as malicious IP addresses, domains, banners, etc. It can be widely integrated [@aispera]
 * [LdapMiner](https://sourceforge.net/projects/ldapminer/) - Multiplatform LDAP enumeration utility.
 * [Mass Scan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 * [Netdiscover](https://github.com/alexxy/netdiscover) - Simple and quick network scanning tool.

@@ -1281,6 +1281,7 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
   * [Metasploit](https://www.metasploit.com/) - Software for offensive security teams to help verify vulnerabilities and manage security assessments.
   * [Mobile Security Framework (MobSF)](https://github.com/MobSF/Mobile-Security-Framework-MobSF/) - Automated mobile application pentesting framework capable of static analysis, dynamic analysis, malware analysis, and web API testing.
   * [Pupy](https://github.com/n1nj4sec/pupy) - Cross-platform (Windows, Linux, macOS, Android) remote administration and post-exploitation tool.
+  * [Ronin](https://ronin-rb.dev/) - Ronin is a free and Open Source Ruby toolkit for security research and development.
   * [Rupture](https://github.com/dionyziz/rupture) - Multipurpose tool capable of man-in-the-middle attacks, BREACH attacks and other compression-based crypto attacks.
 
 #### Network Vulnerability Scanners

@@ -114,12 +114,11 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
 
 #### Information Security Certifications
 
-* [Certified Ethical Hacker](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
+* [Certified Ethical Hacker](https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/)
 * [Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP)
 * [Certified Penetration Testing Engineer (CPTE)](https://www.mile2.com/penetration-testing-engineer-outline/)
 * [CompTIA Security+](https://www.comptia.org/certifications/security)
-* [GIAC Security Essentials (GSEC)](https://www.giac.org/certification/security-essentials-gsec)
-* [Kali Linux Certified Professional (KLCP)](https://home.pearsonvue.com/kali)
+* [GIAC Security Essentials (GSEC)](https://www.giac.org/certifications/security-essentials-gsec/)
 * [Offensive Security Certified Expert (OSCE)](https://www.offensive-security.com/ctp-osce/)
 * [Offensive Security Certified Professional (OSCP)](https://www.offensive-security.com/pwk-oscp/)
 * [Offensive Security Exploitation Expert (OSEE)](https://www.offensive-security.com/awe-osee/)

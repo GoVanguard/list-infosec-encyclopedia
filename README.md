@@ -1217,6 +1217,7 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
 * [Netdiscover](https://github.com/alexxy/netdiscover) - Simple and quick network scanning tool.
 * [Pentest-Tools](https://pentest-tools.com/home) - Online suite of various different pentest related tools.
 * [Ruler](https://github.com/sensepost/ruler) - Tool for remotely interacting with Exchange servers.
+* [RustScan](https://github.com/RustScan/RustScan) - A zippy and versatile port scanner written in Rust.
 * [Shodan](https://www.shodan.io/) - Database containing information on all accessible domains on the internet obtained from passive scanning.
 * [Spyse](https://spyse.com/) - Web research services that scan the entire internet using OSINT, to simplify the investigation of infrastructure and attack surfaces.
 * [Spyse.py](https://github.com/zeropwn/spyse.py) - Python API wrapper and command-line client for the tools hosted on spyse.com.

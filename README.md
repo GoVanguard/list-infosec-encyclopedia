@@ -1136,6 +1136,7 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
   * [Whoisology](https://whoisology.com)
   * [WhoIsRequest](https://whoisrequest.com/)
   * [w3snoop](https://webboar.com.w3snoop.com/)
+  * [Validin](https://app.validin.com/) - API and UI to search current and historical DNS records and find websites hosted on IPs.
   * [Verisign](https://dnssec-analyzer.verisignlabs.com/)
   * [ViewDNS.info](https://viewdns.info/)
   * [You Get Signal](https://www.yougetsignal.com/)
